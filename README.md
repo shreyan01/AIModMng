@@ -43,4 +43,4 @@ Access real-time monitoring metrics for a deployed model using the /monitoring-m
 Contributions are welcome! Please follow the [Contributing Guidelines.](Contributions.md)
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
