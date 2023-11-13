@@ -21,7 +21,7 @@ A simple Flask-based system for managing and deploying AI models.
 ### Running the Application
 
 ```bash
-python app.py
+python aiProdDev.py
 ```
 
 
