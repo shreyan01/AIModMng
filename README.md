@@ -1,4 +1,4 @@
-# Flask AI Model Management System
+#AI model management and development kit
 
 A simple Flask-based system for managing and deploying AI models.
 
@@ -10,6 +10,8 @@ A simple Flask-based system for managing and deploying AI models.
 - **Model Evaluation:** Evaluate trained models using held-out data.
 - **Model Deployment:** Deploy trained models to production for real-world predictions.
 - **Monitoring Metrics:** Access real-time monitoring metrics for deployed models.
+- **Open-Source AI Library:** pre-built AI library for better development. 
+- **Data collection and preprocessing:** Data is pre collected and processed for better and more efficient development. 
 
 ## Getting Started
 
